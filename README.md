@@ -39,8 +39,8 @@ The `visualize_performance` function takes in the predicted and true target vari
 
 To run the script with the default parameters, use the following command:
 
-    python script_name.py dataset.csv target_variable 
+    python autoknn.py dataset.csv target_variable 
 
 To specify different parameters, use the appropriate flags:
 
-    python script_name.py dataset.csv target_variable --k 10 --metric manhattan --weigh
+    python autoknn.py dataset.csv target_variable --k 10 --metric manhattan --weigh
