@@ -19,7 +19,7 @@ The script requires the above dependencies to be installed in the environment to
 
 To use the script, run the following command in the terminal:
 
-    python script_name.py dataset target [--k K] [--metric METRIC] [--weight WEIGHT] [--algorithm ALGORITHM] [--leaf_size LEAF_SIZE]
+    python autoknn.py dataset target [--k K] [--metric METRIC] [--weight WEIGHT] [--algorithm ALGORITHM] [--leaf_size LEAF_SIZE]
 
 ### Arguments
 
